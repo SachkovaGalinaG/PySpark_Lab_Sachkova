@@ -1,3 +1,5 @@
+Ссылка для скачивания данных, которые использовались при выполнении работы: https://www.kaggle.com/datasets/saraivaufc/automatic-weather-stations-brazil?select=automatic_weather_stations_inmet_brazil_2000_2021.csv
+
 ## Разведочный анализ данных с помощью PySpark
 #### Цель и задачи работы:
 - Познакомиться с понятием «большие данные» и способами их обработки;
